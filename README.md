@@ -1,7 +1,8 @@
 # angle-meter
 a simple angle meter written in python language.
 
-Notes;
+Notes:
+
 0. Before run the program with python, make sure the required modules (imported modules) are installed in your computer.
 1. Press "Esc" to leave fullscreen mode
 2. Press "A" key to run with fullscreen mode
